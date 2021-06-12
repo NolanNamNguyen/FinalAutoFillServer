@@ -1,0 +1,12 @@
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\bin\Debug\netcoreapp3.1\FinalAutoFillServer.exe
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\obj\Debug\netcoreapp3.1\FinalAutoFillServer.AssemblyInfoInputs.cache
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\obj\Debug\netcoreapp3.1\FinalAutoFillServer.AssemblyInfo.cs
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\obj\Debug\netcoreapp3.1\FinalAutoFillServer.RazorTargetAssemblyInfo.cache
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\obj\Debug\netcoreapp3.1\staticwebassets\FinalAutoFillServer.StaticWebAssets.Manifest.cache
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\obj\Debug\netcoreapp3.1\staticwebassets\FinalAutoFillServer.StaticWebAssets.xml
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\obj\Debug\netcoreapp3.1\FinalAutoFillServer.csproj.CopyComplete
+D:\My stuffs\Projects\IT_Project\Ke\FinalAutoFillServer\FinalAutoFillServer\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
